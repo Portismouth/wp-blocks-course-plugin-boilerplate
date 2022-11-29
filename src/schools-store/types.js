@@ -1,0 +1,6 @@
+export const ADD_SCHOOL = 'ADD_SCHOOL';
+export const FETCH_SCHOOLS = 'FETCH_SCHOOLS';
+export const POPULATE_SCHOOLS = 'POPULATE_SCHOOLS';
+export const CREATE_SCHOOL = 'CREATE_SCHOOL';
+export const TOGGLE_SCHOOL = 'TOGGLE_SCHOOL';
+export const UPDATE_SCHOOL = 'UPDATE_SCHOOL';

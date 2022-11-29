@@ -1,4 +1,2 @@
-import { __ } from '@wordpress/i18n';
-import './editor.scss';
-
-alert(__('Loaded!'));
+import './task-store';
+import './schools-store';
